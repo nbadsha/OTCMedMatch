@@ -5,7 +5,7 @@ Created on Sat May 28 06:45:25 2022
 @author: Nayeem Badshah
 """
 
-import cv2
+# import cv2
 import numpy as np
 import streamlit as st
 from streamlit_option_menu import option_menu
